@@ -12,3 +12,10 @@ Buat file `.tmux.conf` pada direktori Home:
 `touch ~/.tmux.conf`
 
 Lalu paste-kan isi dari .tmux.conf pada repositori ini kedalam file yang sebelumnya telah dibuat, dan simpan.
+
+## Load Config
+
+ketikan perintah berikut pada terminal:
+`tmux source-file ~/.tmux.conf`
+
+DONE
