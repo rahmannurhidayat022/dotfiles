@@ -4,4 +4,4 @@ Cara load config ini:
 2. Install Lunarvim
 3. Git clone pada direktori `~/.config/lvim`
 4. Masuk vim, lalu jalankan perintah `:PackerSync`
-4. Enjoy
+5. Enjoy
