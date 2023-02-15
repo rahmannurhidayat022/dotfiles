@@ -1,8 +1,6 @@
 ### Lunarvim config
 Cara load config ini:
-<ol>
-  <li>Install vim versi 8.0+</li>
-  <li>Install Lunarvim</li>
-  <li>Git clone pada direktori ``~/.config/lvim``</li>
-  <li>Enjoy</li>
-</ol>
+1. Install vim versi 8.0+
+2. Install Lunarvim
+3. Git clone pada direktori `~/.config/lvim`
+4. Enjoy
