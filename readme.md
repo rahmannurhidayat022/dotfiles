@@ -10,4 +10,6 @@ berikut list konfigurasinya, terdapat tools:
 3. Lunarvim, [go to
    branch](https://github.com/rahmannurhidayat022/dotfiles/tree/lvim-conf)
 
+untuk selengkapnya bisa lihat list di branch ya.
+
 Thanks semuanya.
